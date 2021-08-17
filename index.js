@@ -14,8 +14,6 @@ for (let i = 0; i<selected.length; i++) {
   answerArray[i] = "_";
 }
 
-let wrongGuess = !selected.length;
-let maxWrong = 6;
 
 
 let remainingLetters = selected.length;
